@@ -1,8 +1,13 @@
 h1{
    margin-left: 40%;
+   font-family: 'Shadows Into Light Two';
+}
+em{
+   color: white; 
+
 }
 h3{
-    margin-left: 45%;
+    margin-left:45%;
 }
 /* header link lists  */
 .item-link {
@@ -19,12 +24,22 @@ ul {
     overflow: auto;
     min-width: 80px;
 }
-main{
+.portfolio-body{
     margin-left: 40%;
     overflow: scroll;
     
 }
+.contact-body{
+margin-left:40%;
+margin-top: 5%;
+}
 
+#carousel{
+    width: 85%;
+    margin-left: 10%;
+   
+    
+}
 footer{
     position: fixed;   
     left: 0;
@@ -35,4 +50,20 @@ footer{
     text-align: center;
     font-size: 12px;
 
+}
+#footer{
+    background-color: black;
+}
+#background{
+    background: black;
+
+}
+#name{
+    color: white;
+    
+}
+#enter{
+    color:white;
+    font-weight: bold;
+    margin-left: 50%;
 }
