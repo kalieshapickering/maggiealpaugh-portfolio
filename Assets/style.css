@@ -1,0 +1,38 @@
+h1{
+   margin-left: 40%;
+}
+h3{
+    margin-left: 45%;
+}
+/* header link lists  */
+.item-link {
+    text-decoration: none;
+    color: black;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 15%;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+    min-width: 80px;
+}
+main{
+    margin-left: 40%;
+    overflow: scroll;
+    
+}
+
+footer{
+    position: fixed;   
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+
+}
