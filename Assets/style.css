@@ -1,70 +1,17 @@
-h1{
-   margin-left: 40%;
-   font-family: 'Shadows Into Light Two';
-}
-em{
-   color: white; 
 
-}
-h3{
-    margin-left:45%;
-}
-/* header link lists  */
-.item-link {
-    text-decoration: none;
+body{
     color: black;
-}
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: 15%;
-    position: fixed;
-    height: 100%;
-    overflow: auto;
-    min-width: 80px;
-}
-.portfolio-body{
-    margin-left: 40%;
-    overflow: scroll;
-    
-}
-.contact-body{
-margin-left:40%;
-margin-top: 5%;
-}
-
-#carousel{
-    width: 85%;
-    margin-left: 10%;
-   
-    
 }
 footer{
     position: fixed;   
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: black;
-    color: white;
+    color: black;
     text-align: center;
     font-size: 9px;
 
 
 }
-#footer{
-    background-color: black;
-}
-#background{
-    background: black;
 
-}
-#name{
-    color: white;
-    
-}
-#enter{
-    color:white;
-    font-weight: bold;
-    margin-left: 50%;
-}
+
