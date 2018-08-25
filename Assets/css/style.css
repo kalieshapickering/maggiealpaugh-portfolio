@@ -1,0 +1,22 @@
+
+body{
+    color: black;
+   
+}
+
+
+.contactBody{
+    margin-left: 29em;
+    margin-top: 3em;
+}
+footer{
+    bottom: 0;
+
+}
+.displayPhotos{
+    margin: 1px;
+}
+.index{
+    max-width: 830px;
+}    
+
